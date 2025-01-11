@@ -1,0 +1,8 @@
+# Ignore all IDE-specific settings
+.idea/
+
+# Ignore additional OS-specific files
+.DS_Store
+
+# Ignore data
+**/data.sqlite
