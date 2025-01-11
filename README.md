@@ -1,6 +1,6 @@
 # Intuitive Code: Flexible, Testable and Decoupled.
 
-![Cover](cover.png)
+![Cover](cover.jpeg)
 
 This repository contains example code for the book "Intuitive Code: Flexible, Testable and Decoupled".
 
